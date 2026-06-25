@@ -17,3 +17,5 @@ doc_id,owner,asset,ticker,asset_code,txn_type,txn_date,notif_date,amount_low,amo
 20033725,SP,"Versant Media Group, Inc. - Class A Common Stock",VSNT,ST,,,,,,False,,,,1/23/2026
 20033725,SP,Vistra Corp. Common Stock,VST,ST,,,,100001,250000,False,,,,1/23/2026
 20033725,SP,Walt Disney Company,DIS,ST,,,,1000001,5000000,False,,,,1/23/2026
+20034836,SP,Intel Corporation - Common Stock,INTC,OP,,,,1000001,5000000,True,,,,6/23/2026
+20034836,SP,"Uber Technologies, Inc. Common Stock",UBER,OP,,,,500001,1000000,True,,,,6/23/2026
