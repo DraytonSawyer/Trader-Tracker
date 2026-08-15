@@ -1,430 +1,270 @@
 {
   "filing": {
-    "accession": "0002045724-26-000008",
-    "filing_date": "2026-05-18",
-    "period": "2026-03-31",
+    "accession": "0000935836-26-000418",
+    "filing_date": "2026-08-14",
+    "period": "2026-06-30",
     "cik_int": 2045724
   },
   "positions": {
-    "N07059210|Put": {
-      "issuer": "ASML HLDG NV N Y REGISTRY",
-      "class": "SHS",
-      "cusip": "N07059210",
-      "value_usd": 494122503000,
-      "shares": 374100,
-      "share_type": "SH",
-      "put_call": "Put",
-      "pct_portfolio": 3.61
-    },
-    "N07059210|EQ": {
-      "issuer": "ASML HLDG NV N Y REGISTRY",
-      "class": "SHS",
-      "cusip": "N07059210",
-      "value_usd": 6119405000,
-      "shares": 4633,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.04
-    },
-    "007903107|Put": {
-      "issuer": "ADVANCED MICRO DEVICES INC",
-      "class": "COM",
-      "cusip": "007903107",
-      "value_usd": 969160863000,
-      "shares": 4764100,
-      "share_type": "SH",
-      "put_call": "Put",
-      "pct_portfolio": 7.09
-    },
-    "007903107|EQ": {
-      "issuer": "ADVANCED MICRO DEVICES INC",
-      "class": "COM",
-      "cusip": "007903107",
-      "value_usd": 20167643000,
-      "shares": 99138,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.15
-    },
     "038169207|EQ": {
       "issuer": "APPLIED DIGITAL CORP",
       "class": "COM NEW",
       "cusip": "038169207",
-      "value_usd": 319978118000,
-      "shares": 13478438,
+      "value_usd": 469022807000,
+      "shares": 15384616,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.34
+      "pct_portfolio": 2.32
     },
     "05614L209|EQ": {
       "issuer": "BABCOCK & WILCOX ENTERPRISES",
       "class": "COM",
       "cusip": "05614L209",
-      "value_usd": 19888791000,
-      "shares": 1353900,
+      "value_usd": 28587059000,
+      "shares": 2027451,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.15
+      "pct_portfolio": 0.14
     },
     "G11448100|EQ": {
       "issuer": "BITDEER TECHNOLOGIES GROUP",
       "class": "CL A ORD SHS",
       "cusip": "G11448100",
-      "value_usd": 29751243000,
+      "value_usd": 54584072000,
       "shares": 3439450,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.22
-    },
-    "09173B107|EQ": {
-      "issuer": "BITFARMS LTD",
-      "class": "COM",
-      "cusip": "09173B107",
-      "value_usd": 38757888000,
-      "shares": 19875840,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.28
+      "pct_portfolio": 0.27
     },
     "093712107|Call": {
       "issuer": "BLOOM ENERGY CORP",
       "class": "COM CL A",
       "cusip": "093712107",
-      "value_usd": 55347665000,
-      "shares": 408500,
+      "value_usd": 44133660000,
+      "shares": 145800,
       "share_type": "SH",
       "put_call": "Call",
-      "pct_portfolio": 0.4
+      "pct_portfolio": 0.22
     },
     "093712107|EQ": {
       "issuer": "BLOOM ENERGY CORP",
       "class": "COM CL A",
       "cusip": "093712107",
-      "value_usd": 878707930000,
-      "shares": 6485408,
+      "value_usd": 1898778982000,
+      "shares": 6272808,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 6.42
+      "pct_portfolio": 9.38
     },
-    "11135F101|Put": {
-      "issuer": "BROADCOM INC",
-      "class": "COM",
-      "cusip": "11135F101",
-      "value_usd": 1006247961000,
-      "shares": 3251100,
+    "15675D103|EQ": {
+      "issuer": "CEREBRAS SYSTEMS INC",
+      "class": "COM CL A",
+      "cusip": "15675D103",
+      "value_usd": 2210000000,
+      "shares": 10000,
       "share_type": "SH",
-      "put_call": "Put",
-      "pct_portfolio": 7.36
+      "put_call": "",
+      "pct_portfolio": 0.01
     },
     "18452B209|EQ": {
       "issuer": "CLEANSPARK INC",
       "class": "COM NEW",
       "cusip": "18452B209",
-      "value_usd": 104469943000,
+      "value_usd": 178617822000,
       "shares": 12276139,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.76
+      "pct_portfolio": 0.88
     },
     "21874A106|EQ": {
       "issuer": "CORE SCIENTIFIC INC NEW",
       "class": "COM",
       "cusip": "21874A106",
-      "value_usd": 389086756000,
+      "value_usd": 665556824000,
       "shares": 26008473,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.84
-    },
-    "21873S108|Call": {
-      "issuer": "COREWEAVE INC",
-      "class": "COM CL A",
-      "cusip": "21873S108",
-      "value_usd": 140569315000,
-      "shares": 1814500,
-      "share_type": "SH",
-      "put_call": "Call",
-      "pct_portfolio": 1.03
+      "pct_portfolio": 3.29
     },
     "21873S108|EQ": {
       "issuer": "COREWEAVE INC",
       "class": "COM CL A",
       "cusip": "21873S108",
-      "value_usd": 556073385000,
-      "shares": 7177919,
+      "value_usd": 744515203000,
+      "shares": 7479558,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 4.07
-    },
-    "219350105|EQ": {
-      "issuer": "CORNING INC",
-      "class": "COM",
-      "cusip": "219350105",
-      "value_usd": 718330000,
-      "shares": 5283,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.01
-    },
-    "219350105|Put": {
-      "issuer": "CORNING INC",
-      "class": "COM",
-      "cusip": "219350105",
-      "value_usd": 21020962000,
-      "shares": 154600,
-      "share_type": "SH",
-      "put_call": "Put",
-      "pct_portfolio": 0.15
+      "pct_portfolio": 3.68
     },
     "433921103|EQ": {
       "issuer": "HIVE DIGITAL TECHNOLOGIES LT",
       "class": "COM NEW",
       "cusip": "433921103",
-      "value_usd": 6443939000,
-      "shares": 3391547,
+      "value_usd": 33246763000,
+      "shares": 9133726,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.05
+      "pct_portfolio": 0.16
     },
     "Q4982L109|EQ": {
       "issuer": "IREN LIMITED",
       "class": "ORDINARY SHARES",
       "cusip": "Q4982L109",
-      "value_usd": 401036064000,
-      "shares": 11698835,
+      "value_usd": 433250547000,
+      "shares": 9474099,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.93
+      "pct_portfolio": 2.14
     },
     "456788108|Put": {
       "issuer": "INFOSYS LTD",
       "class": "SPONSORED ADR",
       "cusip": "456788108",
-      "value_usd": 6755000000,
+      "value_usd": 5245000000,
       "shares": 500000,
       "share_type": "SH",
       "put_call": "Put",
-      "pct_portfolio": 0.05
+      "pct_portfolio": 0.03
     },
-    "458140100|EQ": {
-      "issuer": "INTEL CORP",
-      "class": "COM",
-      "cusip": "458140100",
-      "value_usd": 8929441000,
-      "shares": 202344,
+    "486917107|EQ": {
+      "issuer": "KEEL INFRASTRUCTURE CORP",
+      "class": "SHSCOM",
+      "cusip": "486917107",
+      "value_usd": 151830996000,
+      "shares": 26451393,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.07
-    },
-    "458140100|Put": {
-      "issuer": "INTEL CORP",
-      "class": "COM",
-      "cusip": "458140100",
-      "value_usd": 159106302000,
-      "shares": 3605400,
-      "share_type": "SH",
-      "put_call": "Put",
-      "pct_portfolio": 1.16
+      "pct_portfolio": 0.75
     },
     "595112103|EQ": {
       "issuer": "MICRON TECHNOLOGY INC",
       "class": "COM",
       "cusip": "595112103",
-      "value_usd": 5865578000,
-      "shares": 17362,
+      "value_usd": 5573819392000,
+      "shares": 4828786,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.04
+      "pct_portfolio": 27.54
     },
-    "595112103|Call": {
-      "issuer": "MICRON TECHNOLOGY INC",
-      "class": "COM",
-      "cusip": "595112103",
-      "value_usd": 422300000000,
-      "shares": 1250000,
-      "share_type": "SH",
-      "put_call": "Call",
-      "pct_portfolio": 3.09
-    },
-    "595112103|Put": {
-      "issuer": "MICRON TECHNOLOGY INC",
-      "class": "COM",
-      "cusip": "595112103",
-      "value_usd": 583686168000,
-      "shares": 1727700,
-      "share_type": "SH",
-      "put_call": "Put",
-      "pct_portfolio": 4.27
-    },
-    "67066G104|EQ": {
-      "issuer": "NVIDIA CORPORATION",
-      "class": "COM",
-      "cusip": "67066G104",
-      "value_usd": 497912000,
-      "shares": 2855,
+    "N97284108|EQ": {
+      "issuer": "NEBIUS GROUP N.V.",
+      "class": "CLASS ASHS",
+      "cusip": "N97284108",
+      "value_usd": 1232894684000,
+      "shares": 4464260,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.0
-    },
-    "67066G104|Put": {
-      "issuer": "NVIDIA CORPORATION",
-      "class": "COM",
-      "cusip": "67066G104",
-      "value_usd": 1568257120000,
-      "shares": 8992300,
-      "share_type": "SH",
-      "put_call": "Put",
-      "pct_portfolio": 11.47
-    },
-    "68389X105|Put": {
-      "issuer": "ORACLE CORP",
-      "class": "COM",
-      "cusip": "68389X105",
-      "value_usd": 1072873230000,
-      "shares": 7293000,
-      "share_type": "SH",
-      "put_call": "Put",
-      "pct_portfolio": 7.84
-    },
-    "73933G202|EQ": {
-      "issuer": "POWER SOLUTIONS INTL INC",
-      "class": "COM NEW",
-      "cusip": "73933G202",
-      "value_usd": 26318424000,
-      "shares": 432300,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.19
+      "pct_portfolio": 6.09
     },
     "74347M108|EQ": {
       "issuer": "PROPETRO HLDG CORP",
       "class": "COM",
       "cusip": "74347M108",
-      "value_usd": 13117423000,
-      "shares": 910300,
+      "value_usd": 28111878000,
+      "shares": 1960382,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.1
+      "pct_portfolio": 0.14
     },
     "767292105|EQ": {
       "issuer": "RIOT PLATFORMS INC",
       "class": "COM",
       "cusip": "767292105",
-      "value_usd": 142166413000,
-      "shares": 11502137,
+      "value_usd": 468198000000,
+      "shares": 17100000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.04
-    },
-    "80004C200|Call": {
-      "issuer": "SANDISK CORP",
-      "class": "COM",
-      "cusip": "80004C200",
-      "value_usd": 388764546000,
-      "shares": 611900,
-      "share_type": "SH",
-      "put_call": "Call",
-      "pct_portfolio": 2.84
+      "pct_portfolio": 2.31
     },
     "80004C200|EQ": {
       "issuer": "SANDISK CORP",
       "class": "COM",
       "cusip": "80004C200",
-      "value_usd": 724363205000,
-      "shares": 1140119,
+      "value_usd": 5673738513000,
+      "shares": 2495344,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 5.3
+      "pct_portfolio": 28.03
     },
     "778920306|EQ": {
       "issuer": "SHARONAI HOLDINGS INC",
-      "class": "COM CL A  ADDED",
+      "class": "COM CL A",
       "cusip": "778920306",
-      "value_usd": 18095535000,
-      "shares": 796108,
+      "value_usd": 456836112000,
+      "shares": 5396127,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.13
+      "pct_portfolio": 2.26
     },
     "83418M103|EQ": {
       "issuer": "SOLARIS ENERGY INFRAS INC",
       "class": "COM CL A",
       "cusip": "83418M103",
-      "value_usd": 62474687000,
-      "shares": 1105551,
+      "value_usd": 90889306000,
+      "shares": 1129621,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.46
+      "pct_portfolio": 0.45
+    },
+    "861012102|EQ": {
+      "issuer": "STMICROELECTRONICS",
+      "class": "NY REGISTRY",
+      "cusip": "861012102",
+      "value_usd": 584344203000,
+      "shares": 7802700,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 2.89
     },
     "35834F104|EQ": {
       "issuer": "T1 ENERGY INC",
       "class": "COM NEW",
       "cusip": "35834F104",
-      "value_usd": 43900000000,
-      "shares": 10000000,
+      "value_usd": 46452000000,
+      "shares": 4900000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.32
+      "pct_portfolio": 0.23
     },
     "874039100|EQ": {
       "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
       "class": "SPONSORED ADS",
       "cusip": "874039100",
-      "value_usd": 7577853000,
-      "shares": 22423,
+      "value_usd": 1265099645000,
+      "shares": 2649035,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.06
+      "pct_portfolio": 6.25
     },
     "874039100|Call": {
       "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
       "class": "SPONSORED ADS",
       "cusip": "874039100",
-      "value_usd": 354847500000,
-      "shares": 1050000,
+      "value_usd": 23878500000,
+      "shares": 50000,
       "share_type": "SH",
       "put_call": "Call",
-      "pct_portfolio": 2.59
+      "pct_portfolio": 0.12
     },
-    "874039100|Put": {
-      "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
-      "class": "SPONSORED ADS",
-      "cusip": "874039100",
-      "value_usd": 535110030000,
-      "shares": 1583400,
-      "share_type": "SH",
-      "put_call": "Put",
-      "pct_portfolio": 3.91
-    },
-    "92189F676|Put": {
-      "issuer": "VANECK ETF TRUST",
-      "class": "SEMICONDUCTR ETF",
-      "cusip": "92189F676",
-      "value_usd": 2042716860000,
-      "shares": 5327900,
-      "share_type": "SH",
-      "put_call": "Put",
-      "pct_portfolio": 14.94
-    },
-    "92189F676|EQ": {
-      "issuer": "VANECK ETF TRUST",
-      "class": "SEMICONDUCTR ETF",
-      "cusip": "92189F676",
-      "value_usd": 10332630000,
-      "shares": 26950,
+    "928298108|EQ": {
+      "issuer": "VISHAY INTERTECHNOLOGY INC",
+      "class": "COM",
+      "cusip": "928298108",
+      "value_usd": 20167500000,
+      "shares": 375000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.08
+      "pct_portfolio": 0.1
     },
     "G96115103|EQ": {
       "issuer": "WHITEFIBER INC",
       "class": "SHS",
       "cusip": "G96115103",
-      "value_usd": 20933016000,
+      "value_usd": 68282760000,
       "shares": 1757600,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.15
+      "pct_portfolio": 0.34
     }
   }
 }

@@ -1,710 +1,960 @@
 {
   "filing": {
-    "accession": "0001536411-26-000004",
-    "filing_date": "2026-05-15",
-    "period": "2026-03-31",
+    "accession": "0001536411-26-000006",
+    "filing_date": "2026-08-14",
+    "period": "2026-06-30",
     "cik_int": 1536411
   },
   "positions": {
+    "88025U109|EQ": {
+      "issuer": "10X Genomics Inc",
+      "class": "CL A COM",
+      "cusip": "88025U109",
+      "value_usd": 15455000,
+      "shares": 403100,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.3
+    },
     "000899104|EQ": {
       "issuer": "Adma Biologics Inc",
       "class": "COM",
       "cusip": "000899104",
-      "value_usd": 13926000,
-      "shares": 1545610,
+      "value_usd": 23303000,
+      "shares": 2784110,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.41
+      "pct_portfolio": 0.45
+    },
+    "007903107|EQ": {
+      "issuer": "Advanced Micro Devices Inc",
+      "class": "COM",
+      "cusip": "007903107",
+      "value_usd": 42348000,
+      "shares": 72900,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.81
+    },
+    "00835Q202|EQ": {
+      "issuer": "Aeva Technologies Inc",
+      "class": "COM NEW",
+      "cusip": "00835Q202",
+      "value_usd": 20683000,
+      "shares": 720175,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.4
     },
     "013872106|EQ": {
       "issuer": "Alcoa Corp",
       "class": "COM",
       "cusip": "013872106",
-      "value_usd": 99057000,
-      "shares": 1493390,
+      "value_usd": 9679000,
+      "shares": 185640,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.93
+      "pct_portfolio": 0.19
     },
-    "020398707|EQ": {
-      "issuer": "Almonty Inds Inc",
-      "class": "COM NEW",
-      "cusip": "020398707",
-      "value_usd": 6804000,
-      "shares": 469880,
+    "02079K305|EQ": {
+      "issuer": "Alphabet Inc",
+      "class": "CAP STK CL A",
+      "cusip": "02079K305",
+      "value_usd": 120184000,
+      "shares": 336300,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.2
+      "pct_portfolio": 2.31
     },
     "023135106|EQ": {
       "issuer": "Amazon Com Inc",
       "class": "COM",
       "cusip": "023135106",
-      "value_usd": 9539000,
-      "shares": 45800,
+      "value_usd": 129085000,
+      "shares": 541600,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.28
+      "pct_portfolio": 2.48
     },
     "023135106|Call": {
       "issuer": "Amazon Com Inc",
       "class": "COM",
       "cusip": "023135106",
-      "value_usd": 41654000,
-      "shares": 200000,
+      "value_usd": 109470000,
+      "shares": 459300,
       "share_type": "SH",
       "put_call": "Call",
-      "pct_portfolio": 1.23
+      "pct_portfolio": 2.1
     },
     "042068205|EQ": {
       "issuer": "Arm Holdings Plc",
       "class": "SPONSORED ADS",
       "cusip": "042068205",
-      "value_usd": 16142000,
-      "shares": 106700,
+      "value_usd": 9960000,
+      "shares": 28090,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.48
+      "pct_portfolio": 0.19
+    },
+    "051774107|EQ": {
+      "issuer": "Aurora Innovation Inc",
+      "class": "CLASS A COM",
+      "cusip": "051774107",
+      "value_usd": 4322000,
+      "shares": 633700,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.08
+    },
+    "056752108|EQ": {
+      "issuer": "Baidu Inc",
+      "class": "SPON ADR REP A",
+      "cusip": "056752108",
+      "value_usd": 10080000,
+      "shares": 88200,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.19
     },
     "G0896C103|EQ": {
       "issuer": "Bbb Foods Inc",
       "class": "CL A COM",
       "cusip": "G0896C103",
-      "value_usd": 109972000,
-      "shares": 3109202,
+      "value_usd": 120915000,
+      "shares": 2901733,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 3.26
+      "pct_portfolio": 2.32
+    },
+    "07373V105|EQ": {
+      "issuer": "Beam Therapeutics Inc",
+      "class": "COM",
+      "cusip": "07373V105",
+      "value_usd": 5272000,
+      "shares": 153600,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.1
     },
     "07782B104|EQ": {
       "issuer": "Belite Bio Inc Sponsored",
       "class": "ADS",
       "cusip": "07782B104",
-      "value_usd": 16917000,
+      "value_usd": 16338000,
       "shares": 106100,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.5
+      "pct_portfolio": 0.31
     },
-    "093712107|EQ": {
-      "issuer": "Bloom Energy Corp",
-      "class": "COM CL A",
-      "cusip": "093712107",
-      "value_usd": 18470000,
-      "shares": 136320,
+    "G11448100|EQ": {
+      "issuer": "Bitdeer Technologies Group",
+      "class": "CL A ORD SHS",
+      "cusip": "G11448100",
+      "value_usd": 64670000,
+      "shares": 4074993,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.55
-    },
-    "11135F101|EQ": {
-      "issuer": "Broadcom Inc",
-      "class": "COM",
-      "cusip": "11135F101",
-      "value_usd": 60650000,
-      "shares": 195955,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 1.8
+      "pct_portfolio": 1.24
     },
     "142152107|EQ": {
       "issuer": "Caris Life Sciences Inc",
       "class": "COM",
       "cusip": "142152107",
-      "value_usd": 33873000,
+      "value_usd": 33759000,
       "shares": 1894450,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.0
+      "pct_portfolio": 0.65
     },
-    "15101Q207|EQ": {
-      "issuer": "Celestica Inc",
-      "class": "COM",
-      "cusip": "15101Q207",
-      "value_usd": 9373000,
-      "shares": 33275,
+    "146869102|EQ": {
+      "issuer": "Carvana Co",
+      "class": "CL A",
+      "cusip": "146869102",
+      "value_usd": 9939000,
+      "shares": 151000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.28
+      "pct_portfolio": 0.19
+    },
+    "149568107|EQ": {
+      "issuer": "Cavco Inds Inc Del",
+      "class": "COM",
+      "cusip": "149568107",
+      "value_usd": 24268000,
+      "shares": 39500,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.47
+    },
+    "12510Q100|EQ": {
+      "issuer": "Ccc Intelligent Solutions Hl",
+      "class": "COM",
+      "cusip": "12510Q100",
+      "value_usd": 6042000,
+      "shares": 1170900,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.12
+    },
+    "12514G108|EQ": {
+      "issuer": "Cdw Corp",
+      "class": "COM",
+      "cusip": "12514G108",
+      "value_usd": 104629000,
+      "shares": 743950,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 2.01
+    },
+    "12514G108|Call": {
+      "issuer": "Cdw Corp",
+      "class": "COM",
+      "cusip": "12514G108",
+      "value_usd": 35160000,
+      "shares": 250000,
+      "share_type": "SH",
+      "put_call": "Call",
+      "pct_portfolio": 0.67
+    },
+    "830830105|EQ": {
+      "issuer": "Champion Homes Inc",
+      "class": "COM",
+      "cusip": "830830105",
+      "value_usd": 22418000,
+      "shares": 254400,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.43
     },
     "185899101|EQ": {
       "issuer": "Cleveland-Cliffs Inc New",
       "class": "COM",
       "cusip": "185899101",
-      "value_usd": 19549000,
-      "shares": 2313455,
+      "value_usd": 39590000,
+      "shares": 4216184,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.58
-    },
-    "18915M107|EQ": {
-      "issuer": "Cloudflare Inc",
-      "class": "CL A COM",
-      "cusip": "18915M107",
-      "value_usd": 10840000,
-      "shares": 52535,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.32
-    },
-    "19247G107|EQ": {
-      "issuer": "Coherent Corp",
-      "class": "COM",
-      "cusip": "19247G107",
-      "value_usd": 9624000,
-      "shares": 40400,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.29
+      "pct_portfolio": 0.76
     },
     "22266T109|EQ": {
       "issuer": "Coupang Inc",
       "class": "CL A",
       "cusip": "22266T109",
-      "value_usd": 50362000,
+      "value_usd": 46334000,
       "shares": 2667485,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.49
+      "pct_portfolio": 0.89
     },
     "G25508105|EQ": {
       "issuer": "Crh Plc",
       "class": "ORD",
       "cusip": "G25508105",
-      "value_usd": 39689000,
-      "shares": 377555,
+      "value_usd": 59230000,
+      "shares": 553555,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.18
+      "pct_portfolio": 1.14
+    },
+    "23331A109|EQ": {
+      "issuer": "D R Horton Inc",
+      "class": "COM",
+      "cusip": "23331A109",
+      "value_usd": 48701000,
+      "shares": 299000,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.93
     },
     "234264109|EQ": {
       "issuer": "Daktronics Inc",
       "class": "COM",
       "cusip": "234264109",
-      "value_usd": 11000000,
-      "shares": 562637,
+      "value_usd": 21968000,
+      "shares": 1123109,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.33
+      "pct_portfolio": 0.42
+    },
+    "235851102|EQ": {
+      "issuer": "Danaher Corp Del",
+      "class": "COM",
+      "cusip": "235851102",
+      "value_usd": 9581000,
+      "shares": 50300,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.18
     },
     "23306J309|EQ": {
       "issuer": "Dbv Technologies S A Sponsored",
       "class": "ADS",
       "cusip": "23306J309",
-      "value_usd": 8008000,
+      "value_usd": 6287000,
       "shares": 383363,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.24
+      "pct_portfolio": 0.12
     },
-    "278768106|EQ": {
-      "issuer": "Echostar Corp",
-      "class": "CL A",
-      "cusip": "278768106",
-      "value_usd": 7114000,
-      "shares": 60765,
+    "24477V105|EQ": {
+      "issuer": "Definium Therapeutics Inc",
+      "class": "COM SHS",
+      "cusip": "24477V105",
+      "value_usd": 16774000,
+      "shares": 356600,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.21
+      "pct_portfolio": 0.32
     },
-    "349381103|EQ": {
-      "issuer": "Figure Technology Solutio",
-      "class": "COM CL A",
-      "cusip": "349381103",
-      "value_usd": 39057000,
-      "shares": 1150415,
+    "247361702|EQ": {
+      "issuer": "Delta Air Lines Inc",
+      "class": "COM NEW",
+      "cusip": "247361702",
+      "value_usd": 56477000,
+      "shares": 603000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.16
+      "pct_portfolio": 1.08
+    },
+    "532457108|EQ": {
+      "issuer": "Eli Lilly & Co",
+      "class": "COM",
+      "cusip": "532457108",
+      "value_usd": 14849000,
+      "shares": 12380,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.28
+    },
+    "29362U104|EQ": {
+      "issuer": "Entegris Inc",
+      "class": "COM",
+      "cusip": "29362U104",
+      "value_usd": 21277000,
+      "shares": 118300,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.41
+    },
+    "29444U700|EQ": {
+      "issuer": "Equinix Inc",
+      "class": "COM",
+      "cusip": "29444U700",
+      "value_usd": 19232000,
+      "shares": 18450,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.37
+    },
+    "315616102|EQ": {
+      "issuer": "F5 Inc",
+      "class": "COM",
+      "cusip": "315616102",
+      "value_usd": 9151000,
+      "shares": 22000,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.18
+    },
+    "343412102|EQ": {
+      "issuer": "Fluor Corp",
+      "class": "COM",
+      "cusip": "343412102",
+      "value_usd": 51457000,
+      "shares": 982200,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.99
+    },
+    "35137L105|EQ": {
+      "issuer": "Fox Corp",
+      "class": "CL A COM",
+      "cusip": "35137L105",
+      "value_usd": 114992000,
+      "shares": 2204600,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 2.21
+    },
+    "35137L204|EQ": {
+      "issuer": "Fox Corp",
+      "class": "CL B COM",
+      "cusip": "35137L204",
+      "value_usd": 29631000,
+      "shares": 632600,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.57
+    },
+    "G3730V105|EQ": {
+      "issuer": "Ftai Aviation Ltd",
+      "class": "SHS",
+      "cusip": "G3730V105",
+      "value_usd": 5465000,
+      "shares": 20200,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.1
     },
     "37950E259|EQ": {
       "issuer": "Global X Fds",
       "class": "GB MSCI AR ETF",
       "cusip": "37950E259",
-      "value_usd": 36152000,
-      "shares": 387400,
+      "value_usd": 30019000,
+      "shares": 328800,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.07
+      "pct_portfolio": 0.58
     },
-    "444859102|EQ": {
-      "issuer": "Humana Inc",
-      "class": "COM",
-      "cusip": "444859102",
-      "value_usd": 23842000,
-      "shares": 137505,
+    "399909100|EQ": {
+      "issuer": "Grupo Financiero Galicia S.A",
+      "class": "SPONSORED ADR",
+      "cusip": "399909100",
+      "value_usd": 2977000,
+      "shares": 59500,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.71
+      "pct_portfolio": 0.06
+    },
+    "44812J104|EQ": {
+      "issuer": "Hut 8 Corp",
+      "class": "COM",
+      "cusip": "44812J104",
+      "value_usd": 36267000,
+      "shares": 314150,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.7
+    },
+    "44916Y106|EQ": {
+      "issuer": "Hyperliquid Strategies Inc",
+      "class": "COM",
+      "cusip": "44916Y106",
+      "value_usd": 23150000,
+      "shares": 2941500,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.44
     },
     "457669307|EQ": {
       "issuer": "Insmed Inc",
       "class": "COM PAR $.01",
       "cusip": "457669307",
-      "value_usd": 188717000,
-      "shares": 1154090,
+      "value_usd": 151900000,
+      "shares": 1424690,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 5.59
+      "pct_portfolio": 2.92
     },
-    "458140100|EQ": {
-      "issuer": "Intel Corp",
-      "class": "COM",
-      "cusip": "458140100",
-      "value_usd": 18155000,
-      "shares": 411400,
+    "457669307|Call": {
+      "issuer": "Insmed Inc",
+      "class": "COM PAR $.01",
+      "cusip": "457669307",
+      "value_usd": 143937000,
+      "shares": 1350000,
+      "share_type": "SH",
+      "put_call": "Call",
+      "pct_portfolio": 2.76
+    },
+    "46137V357|EQ": {
+      "issuer": "Invesco Exchange Traded Fd T",
+      "class": "S&P500 EQL WGT",
+      "cusip": "46137V357",
+      "value_usd": 15830000,
+      "shares": 74400,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.54
+      "pct_portfolio": 0.3
     },
     "46137V357|Call": {
       "issuer": "Invesco Exchange Traded Fd T",
       "class": "S&P500 EQL WGT",
       "cusip": "46137V357",
-      "value_usd": 157566000,
+      "value_usd": 174684000,
       "shares": 821000,
       "share_type": "SH",
       "put_call": "Call",
-      "pct_portfolio": 4.67
+      "pct_portfolio": 3.35
+    },
+    "Q4982L109|EQ": {
+      "issuer": "Iren Limited",
+      "class": "ORDINARY SHARES",
+      "cusip": "Q4982L109",
+      "value_usd": 3983000,
+      "shares": 87100,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.08
     },
     "464286400|EQ": {
       "issuer": "Ishares Inc",
       "class": "MSCI BRAZIL ETF",
       "cusip": "464286400",
-      "value_usd": 131915000,
+      "value_usd": 118548000,
       "shares": 3436170,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 3.91
+      "pct_portfolio": 2.28
     },
     "464286400|Call": {
       "issuer": "Ishares Inc",
       "class": "MSCI BRAZIL ETF",
       "cusip": "464286400",
-      "value_usd": 162313000,
+      "value_usd": 145866000,
       "shares": 4228000,
       "share_type": "SH",
       "put_call": "Call",
-      "pct_portfolio": 4.81
-    },
-    "46428R107|EQ": {
-      "issuer": "Ishares S&P Gsci Commodity-",
-      "class": "UNIT BEN INT",
-      "cusip": "46428R107",
-      "value_usd": 20737000,
-      "shares": 643000,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.61
+      "pct_portfolio": 2.8
     },
     "464287655|Call": {
       "issuer": "Ishares Tr",
       "class": "RUSSELL 2000 ETF",
       "cusip": "464287655",
-      "value_usd": 19592000,
-      "shares": 79000,
+      "value_usd": 99149000,
+      "shares": 330000,
       "share_type": "SH",
       "put_call": "Call",
-      "pct_portfolio": 0.58
-    },
-    "466313103|EQ": {
-      "issuer": "Jabil Inc",
-      "class": "COM",
-      "cusip": "466313103",
-      "value_usd": 21835000,
-      "shares": 82200,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.65
+      "pct_portfolio": 1.9
     },
     "N4732M103|EQ": {
       "issuer": "Jbs N.V.",
       "class": "CL A SHS",
       "cusip": "N4732M103",
-      "value_usd": 11780000,
+      "value_usd": 7772000,
       "shares": 655900,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.35
+      "pct_portfolio": 0.15
     },
-    "518415104|EQ": {
-      "issuer": "Lattice Semiconductor Corp",
-      "class": "COM",
-      "cusip": "518415104",
-      "value_usd": 29974000,
-      "shares": 323135,
+    "512807306|EQ": {
+      "issuer": "Lam Research Corp",
+      "class": "COM NEW",
+      "cusip": "512807306",
+      "value_usd": 18893000,
+      "shares": 43600,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.89
+      "pct_portfolio": 0.36
     },
     "G54950103|EQ": {
       "issuer": "Linde Plc",
       "class": "SHS",
       "cusip": "G54950103",
-      "value_usd": 20425000,
+      "value_usd": 21380000,
       "shares": 41200,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.6
+      "pct_portfolio": 0.41
     },
-    "55024U109|EQ": {
-      "issuer": "Lumentum Hldgs Inc",
+    "30303M102|Call": {
+      "issuer": "Meta Platforms Inc",
+      "class": "CL A",
+      "cusip": "30303M102",
+      "value_usd": 28165000,
+      "shares": 50000,
+      "share_type": "SH",
+      "put_call": "Call",
+      "pct_portfolio": 0.54
+    },
+    "61225M102|EQ": {
+      "issuer": "Monte Rosa Therapeutics Inc",
       "class": "COM",
-      "cusip": "55024U109",
-      "value_usd": 4893000,
-      "shares": 6963,
+      "cusip": "61225M102",
+      "value_usd": 7202000,
+      "shares": 297600,
       "share_type": "SH",
       "put_call": "",
       "pct_portfolio": 0.14
-    },
-    "N53745100|EQ": {
-      "issuer": "Lyondellbasell Industries Nv",
-      "class": "SHS - A -",
-      "cusip": "N53745100",
-      "value_usd": 10588000,
-      "shares": 131435,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.31
-    },
-    "58733R102|EQ": {
-      "issuer": "Mercadolibre  Inc",
-      "class": "COM",
-      "cusip": "58733R102",
-      "value_usd": 4782000,
-      "shares": 2766,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.14
-    },
-    "595112103|EQ": {
-      "issuer": "Micron Technology Inc",
-      "class": "COM",
-      "cusip": "595112103",
-      "value_usd": 7905000,
-      "shares": 23400,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.23
     },
     "632307104|EQ": {
       "issuer": "Natera Inc",
       "class": "COM",
       "cusip": "632307104",
-      "value_usd": 612691000,
-      "shares": 3063606,
+      "value_usd": 864923000,
+      "shares": 3186306,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 18.14
+      "pct_portfolio": 16.6
+    },
+    "63942X106|EQ": {
+      "issuer": "Navitas Semiconductor Corp",
+      "class": "COM",
+      "cusip": "63942X106",
+      "value_usd": 5575000,
+      "shares": 311100,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.11
     },
     "N62509109|EQ": {
       "issuer": "Newamsterdam Pharma Company",
       "class": "ORDINARY SHARES",
       "cusip": "N62509109",
-      "value_usd": 98275000,
+      "value_usd": 104047000,
       "shares": 3070146,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.91
+      "pct_portfolio": 2.0
     },
     "67080N101|EQ": {
       "issuer": "Nuvation Bio Inc",
       "class": "COM CL A",
       "cusip": "67080N101",
-      "value_usd": 19476000,
+      "value_usd": 25786000,
       "shares": 4539800,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.58
+      "pct_portfolio": 0.49
     },
     "68062P106|EQ": {
       "issuer": "Olema Pharmaceuticals Inc",
       "class": "COM",
       "cusip": "68062P106",
-      "value_usd": 14714000,
+      "value_usd": 12345000,
       "shares": 986827,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.44
+      "pct_portfolio": 0.24
     },
-    "68404L201|EQ": {
-      "issuer": "Option Care Health Inc",
-      "class": "COM NEW",
-      "cusip": "68404L201",
-      "value_usd": 50301000,
-      "shares": 1868550,
+    "697435105|EQ": {
+      "issuer": "Palo Alto Networks Inc",
+      "class": "COM",
+      "cusip": "697435105",
+      "value_usd": 39780000,
+      "shares": 116650,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.49
+      "pct_portfolio": 0.76
     },
     "74366E102|EQ": {
       "issuer": "Protagonist Therapeutics Inc",
       "class": "COM",
       "cusip": "74366E102",
-      "value_usd": 16832000,
-      "shares": 159700,
+      "value_usd": 25607000,
+      "shares": 208900,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.5
+      "pct_portfolio": 0.49
     },
     "74623V103|EQ": {
       "issuer": "Purecycle Technologies Inc",
       "class": "COM",
       "cusip": "74623V103",
-      "value_usd": 4999000,
-      "shares": 963189,
+      "value_usd": 21746000,
+      "shares": 2681415,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.15
+      "pct_portfolio": 0.42
     },
     "74743L100|EQ": {
       "issuer": "Qnity Electronics Inc",
       "class": "COMMON STOCK",
       "cusip": "74743L100",
-      "value_usd": 14498000,
+      "value_usd": 20521000,
       "shares": 125655,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.43
+      "pct_portfolio": 0.39
     },
-    "76131D103|EQ": {
-      "issuer": "Restaurant Brands Intl Inc",
+    "750917106|EQ": {
+      "issuer": "Rambus Inc Del",
       "class": "COM",
-      "cusip": "76131D103",
-      "value_usd": 33583000,
-      "shares": 454435,
+      "cusip": "750917106",
+      "value_usd": 22964000,
+      "shares": 173000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.99
+      "pct_portfolio": 0.44
+    },
+    "75734B100|EQ": {
+      "issuer": "Reddit Inc",
+      "class": "CL A",
+      "cusip": "75734B100",
+      "value_usd": 9816000,
+      "shares": 56550,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.19
+    },
+    "75943R102|EQ": {
+      "issuer": "Relay Therapeutics Inc",
+      "class": "COM",
+      "cusip": "75943R102",
+      "value_usd": 6530000,
+      "shares": 349000,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.13
+    },
+    "759916109|EQ": {
+      "issuer": "Repligen Corp",
+      "class": "COM",
+      "cusip": "759916109",
+      "value_usd": 10560000,
+      "shares": 77400,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.2
     },
     "76155X100|EQ": {
       "issuer": "Revolution Medicines Inc",
       "class": "COM",
       "cusip": "76155X100",
-      "value_usd": 30717000,
-      "shares": 315860,
+      "value_usd": 74835000,
+      "shares": 399587,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.91
+      "pct_portfolio": 1.44
+    },
+    "76243J105|EQ": {
+      "issuer": "Rhythm Pharmaceuticals Inc",
+      "class": "COM",
+      "cusip": "76243J105",
+      "value_usd": 22608000,
+      "shares": 203618,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.43
+    },
+    "767292105|EQ": {
+      "issuer": "Riot Platforms Inc",
+      "class": "COM",
+      "cusip": "767292105",
+      "value_usd": 20666000,
+      "shares": 754800,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.4
+    },
+    "77311W101|EQ": {
+      "issuer": "Rocket Cos Inc",
+      "class": "COM CL A",
+      "cusip": "77311W101",
+      "value_usd": 10272000,
+      "shares": 652220,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.2
     },
     "77543R102|EQ": {
       "issuer": "Roku Inc",
       "class": "COM CL A",
       "cusip": "77543R102",
-      "value_usd": 70983000,
-      "shares": 750190,
+      "value_usd": 25425000,
+      "shares": 184055,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.1
+      "pct_portfolio": 0.49
     },
     "80004C200|EQ": {
       "issuer": "Sandisk Corp",
       "class": "COM",
       "cusip": "80004C200",
-      "value_usd": 24241000,
-      "shares": 38155,
+      "value_usd": 79353000,
+      "shares": 34900,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.72
+      "pct_portfolio": 1.52
     },
     "81141R100|EQ": {
       "issuer": "Sea Ltd",
       "class": "SPONSORD ADS",
       "cusip": "81141R100",
-      "value_usd": 91083000,
+      "value_usd": 105404000,
       "shares": 1099905,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.7
+      "pct_portfolio": 2.02
     },
     "G7997R103|EQ": {
       "issuer": "Seagate Technology Hldngs Pl",
       "class": "ORD SHS",
       "cusip": "G7997R103",
-      "value_usd": 19862000,
-      "shares": 50700,
+      "value_usd": 117730000,
+      "shares": 122000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.59
+      "pct_portfolio": 2.26
+    },
+    "83056P715|EQ": {
+      "issuer": "Skeena Res Ltd New",
+      "class": "COM",
+      "cusip": "83056P715",
+      "value_usd": 8003000,
+      "shares": 300200,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.15
     },
     "83443Q103|EQ": {
       "issuer": "Solstice Advanced Matls Inc",
       "class": "COM SHS",
       "cusip": "83443Q103",
-      "value_usd": 4762000,
+      "value_usd": 5540000,
       "shares": 62525,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.14
+      "pct_portfolio": 0.11
     },
     "84265V105|EQ": {
       "issuer": "Southern Copper Corp",
       "class": "COM",
       "cusip": "84265V105",
-      "value_usd": 20964000,
-      "shares": 121843,
+      "value_usd": 21444000,
+      "shares": 123060,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.62
+      "pct_portfolio": 0.41
     },
     "78462F103|Call": {
       "issuer": "State Str Spdr S&P 500 Etf T",
       "class": "TR UNIT",
       "cusip": "78462F103",
-      "value_usd": 58531000,
+      "value_usd": 67209000,
       "shares": 90000,
       "share_type": "SH",
       "put_call": "Call",
-      "pct_portfolio": 1.73
+      "pct_portfolio": 1.29
     },
     "861012102|EQ": {
       "issuer": "Stmicroelectronics N V",
       "class": "NY REGISTRY",
       "cusip": "861012102",
-      "value_usd": 90275000,
-      "shares": 2612880,
+      "value_usd": 232375000,
+      "shares": 3102880,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.67
-    },
-    "86384P109|EQ": {
-      "issuer": "Stubhub Hldgs Inc",
-      "class": "CL A",
-      "cusip": "86384P109",
-      "value_usd": 8531000,
-      "shares": 1367177,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.25
+      "pct_portfolio": 4.46
     },
     "874039100|EQ": {
       "issuer": "Taiwan Semiconductor Manufac",
       "class": "SPONSORED ADS",
       "cusip": "874039100",
-      "value_usd": 167380000,
-      "shares": 495280,
+      "value_usd": 281613000,
+      "shares": 589680,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 4.96
+      "pct_portfolio": 5.4
+    },
+    "88160R101|Call": {
+      "issuer": "Tesla Inc",
+      "class": "COM",
+      "cusip": "88160R101",
+      "value_usd": 52996000,
+      "shares": 126000,
+      "share_type": "SH",
+      "put_call": "Call",
+      "pct_portfolio": 1.02
     },
     "881624209|EQ": {
       "issuer": "Teva Pharmaceutical Inds Ltd",
       "class": "SPONSORED ADS",
       "cusip": "881624209",
-      "value_usd": 71604000,
-      "shares": 2377285,
+      "value_usd": 21175000,
+      "shares": 624999,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.12
+      "pct_portfolio": 0.41
     },
-    "90138F102|EQ": {
-      "issuer": "Twilio Inc",
-      "class": "CL A",
-      "cusip": "90138F102",
-      "value_usd": 22869000,
-      "shares": 181760,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.68
-    },
-    "90184D100|EQ": {
-      "issuer": "Twist Bioscience Corp",
+    "883556102|EQ": {
+      "issuer": "Thermo Fisher Scientific Inc",
       "class": "COM",
-      "cusip": "90184D100",
-      "value_usd": 9789000,
-      "shares": 206000,
+      "cusip": "883556102",
+      "value_usd": 9626000,
+      "shares": 19200,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.29
+      "pct_portfolio": 0.18
     },
     "910047109|EQ": {
       "issuer": "United Airls Hldgs Inc",
       "class": "COM",
       "cusip": "910047109",
-      "value_usd": 24168000,
-      "shares": 262495,
+      "value_usd": 108084000,
+      "shares": 794795,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.72
+      "pct_portfolio": 2.07
     },
     "91332U101|EQ": {
       "issuer": "Unity Software Inc",
       "class": "COM",
       "cusip": "91332U101",
-      "value_usd": 16209000,
+      "value_usd": 21114000,
       "shares": 738785,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.48
+      "pct_portfolio": 0.41
+    },
+    "91823B109|EQ": {
+      "issuer": "Uwm Holdings Corporation",
+      "class": "COM CL A",
+      "cusip": "91823B109",
+      "value_usd": 5915000,
+      "shares": 2583000,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.11
     },
     "92837L109|EQ": {
       "issuer": "Vista Energy S.A.B. De C.V.",
       "class": "SPONSORED ADS",
       "cusip": "92837L109",
-      "value_usd": 10166000,
+      "value_usd": 8594000,
       "shares": 134700,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.3
+      "pct_portfolio": 0.16
     },
     "929740108|EQ": {
       "issuer": "Wabtec",
       "class": "COM",
       "cusip": "929740108",
-      "value_usd": 23715000,
-      "shares": 94895,
+      "value_usd": 15258000,
+      "shares": 56595,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.7
+      "pct_portfolio": 0.29
     },
     "Y95308105|EQ": {
       "issuer": "Wave Life Sciences Ltd",
       "class": "SHS",
       "cusip": "Y95308105",
-      "value_usd": 1254000,
+      "value_usd": 1005000,
       "shares": 173000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.04
-    },
-    "960413102|EQ": {
-      "issuer": "Westlake Corporation",
-      "class": "COM",
-      "cusip": "960413102",
-      "value_usd": 2476000,
-      "shares": 21194,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.07
+      "pct_portfolio": 0.02
     },
     "980745103|EQ": {
       "issuer": "Woodward Inc",
       "class": "COM",
       "cusip": "980745103",
-      "value_usd": 75648000,
-      "shares": 211355,
+      "value_usd": 28587000,
+      "shares": 67194,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.24
+      "pct_portfolio": 0.55
     },
     "98420N105|EQ": {
       "issuer": "Xenon Pharmaceuticals Inc",
       "class": "COM",
       "cusip": "98420N105",
-      "value_usd": 13875000,
+      "value_usd": 14402000,
       "shares": 238600,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.41
+      "pct_portfolio": 0.28
     },
     "984245100|EQ": {
       "issuer": "Ypf Sociedad Anonima",
       "class": "SPON ADR CL D",
       "cusip": "984245100",
-      "value_usd": 149566000,
-      "shares": 3235962,
+      "value_usd": 142726000,
+      "shares": 3138897,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 4.43
+      "pct_portfolio": 2.74
     }
   }
 }
