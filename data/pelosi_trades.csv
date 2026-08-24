@@ -1,21 +1,21 @@
 doc_id,owner,asset,ticker,asset_code,txn_type,txn_date,notif_date,amount_low,amount_high,is_option,strike,expiry,description,filing_date
-20033725,SP,AllianceBernstein Holding L.P. Units,AB,AB,,,,1000001,5000000,False,,,,1/23/2026
-20033725,SP,Alphabet Inc. - Class A Common Stock,GOOGL,ST,,,,500001,1000000,False,,,,1/23/2026
-20033725,SP,Alphabet Inc. - Class A Common Stock,GOOGL,OP,,,,250001,500000,True,,,,1/23/2026
-20033725,SP,Alphabet Inc. - Class A Common Stock,GOOGL,ST,,,,1000001,5000000,False,,,,1/23/2026
-20033725,SP,"Amazon.com, Inc. - Common Stock",AMZN,OP,,,,100001,250000,True,,,,1/23/2026
-20033725,SP,"Amazon.com, Inc. - Common Stock",AMZN,ST,,,,1000001,5000000,False,,,,1/23/2026
-20033725,SP,"Amazon.com, Inc. - Common Stock",AMZN,ST,,,,500001,1000000,False,,,,1/23/2026
-20033725,SP,Apple Inc. - Common Stock,AAPL,ST,,,,5000001,25000000,False,,,,1/23/2026
-20033725,SP,Apple Inc. - Common Stock,AAPL,OP,,,,250001,500000,True,,,,1/23/2026
-20033725,SP,Apple Inc. - Common Stock,AAPL,ST,,,,5000001,25000000,False,,,,1/23/2026
-20033725,SP,NVIDIA Corporation - Common Stock,NVDA,OP,,,,100001,250000,True,,,,1/23/2026
-20033725,SP,NVIDIA Corporation - Common Stock,NVDA,ST,,,,1000001,5000000,False,,,,1/23/2026
-20033725,SP,NVIDIA Corporation - Common Stock,NVDA,ST,,,,250001,500000,False,,,,1/23/2026
-20033725,SP,"PayPal Holdings, Inc. - Common Stock",PYPL,ST,,,,250001,500000,False,,,,1/23/2026
-20033725,SP,"Tempus AI, Inc. - Class A CommonP 01/16/202601/16/2026$50,001 - ID Owner Asset Transaction Type Date",TEM,ST,,,,,,False,,,,1/23/2026
-20033725,SP,"Versant Media Group, Inc. - Class A Common Stock",VSNT,ST,,,,,,False,,,,1/23/2026
-20033725,SP,Vistra Corp. Common Stock,VST,ST,,,,100001,250000,False,,,,1/23/2026
-20033725,SP,Walt Disney Company,DIS,ST,,,,1000001,5000000,False,,,,1/23/2026
-20034836,SP,Intel Corporation - Common Stock,INTC,OP,,,,1000001,5000000,True,,,,6/23/2026
-20034836,SP,"Uber Technologies, Inc. Common Stock",UBER,OP,,,,500001,1000000,True,,,,6/23/2026
+20033725,SP,AllianceBernstein Holding L.P. Units,AB,AB,P,01/16/2026,01/16/2026,1000001,5000000,False,,,,1/23/2026
+20033725,SP,Alphabet Inc. - Class A Common Stock,GOOGL,ST,P,01/16/2026,01/16/2026,500001,1000000,False,,,,1/23/2026
+20033725,SP,Alphabet Inc. - Class A Common Stock,GOOGL,OP,P,12/30/2025,12/30/2025,250001,500000,True,,,,1/23/2026
+20033725,SP,Alphabet Inc. - Class A Common Stock,GOOGL,ST,S (partial),12/30/2025,12/30/2025,1000001,5000000,False,,,,1/23/2026
+20033725,SP,"Amazon.com, Inc. - Common Stock",AMZN,OP,P,12/30/2025,12/30/2025,100001,250000,True,,,,1/23/2026
+20033725,SP,"Amazon.com, Inc. - Common Stock",AMZN,ST,S (partial),12/24/2025,12/24/2025,1000001,5000000,False,,,,1/23/2026
+20033725,SP,"Amazon.com, Inc. - Common Stock",AMZN,ST,P,01/16/2026,01/16/2026,500001,1000000,False,,,,1/23/2026
+20033725,SP,Apple Inc. - Common Stock,AAPL,ST,S (partial),12/24/2025,12/24/2025,5000001,25000000,False,,,,1/23/2026
+20033725,SP,Apple Inc. - Common Stock,AAPL,OP,P,12/30/2025,12/30/2025,250001,500000,True,,,,1/23/2026
+20033725,SP,Apple Inc. - Common Stock,AAPL,ST,S (partial),12/30/2025,12/30/2025,5000001,25000000,False,,,,1/23/2026
+20033725,SP,NVIDIA Corporation - Common Stock,NVDA,OP,P,12/30/2025,12/30/2025,100001,250000,True,,,,1/23/2026
+20033725,SP,NVIDIA Corporation - Common Stock,NVDA,ST,S (partial),12/24/2025,12/24/2025,1000001,5000000,False,,,,1/23/2026
+20033725,SP,NVIDIA Corporation - Common Stock,NVDA,ST,P,01/16/2026,01/16/2026,250001,500000,False,,,,1/23/2026
+20033725,SP,"PayPal Holdings, Inc. - Common Stock",PYPL,ST,S,12/30/2025,12/30/2025,250001,500000,False,,,,1/23/2026
+20033725,SP,"Tempus AI, Inc. - Class A Common P 01/16/2026 01/16/2026 $50,001 - ID Owner Asset Transaction Type D",TEM,ST,P,01/16/2026,01/16/2026,,,False,,,,1/23/2026
+20033725,SP,"Versant Media Group, Inc. - Class A Common Stock",VSNT,ST,E,01/02/2026,01/02/2026,,,False,,,,1/23/2026
+20033725,SP,Vistra Corp. Common Stock,VST,ST,P,01/16/2026,01/16/2026,100001,250000,False,,,,1/23/2026
+20033725,SP,Walt Disney Company,DIS,ST,S,12/30/2025,12/30/2025,1000001,5000000,False,,,,1/23/2026
+20034836,SP,Intel Corporation - Common Stock,INTC,OP,P,05/29/2026,05/29/2026,1000001,5000000,True,,,,6/23/2026
+20034836,SP,"Uber Technologies, Inc. Common Stock",UBER,OP,P,05/29/2026,05/29/2026,500001,1000000,True,,,,6/23/2026
