@@ -19,3 +19,10 @@ doc_id,owner,asset,ticker,asset_code,txn_type,txn_date,notif_date,amount_low,amo
 20033725,SP,Walt Disney Company,DIS,ST,S,12/30/2025,12/30/2025,1000001,5000000,False,,,,1/23/2026
 20034836,SP,Intel Corporation - Common Stock,INTC,OP,P,05/29/2026,05/29/2026,1000001,5000000,True,,,,6/23/2026
 20034836,SP,"Uber Technologies, Inc. Common Stock",UBER,OP,P,05/29/2026,05/29/2026,500001,1000000,True,,,,6/23/2026
+20035143,SP,Bloom Energy Corporation Class A Common Stock,BE,ST,P,07/24/2026,07/24/2026,1000001,5000000,False,,,,8/21/2026
+20035143,SP,Bloom Energy Corporation Class A Common Stock,BE,OP,P,07/24/2026,07/24/2026,1000001,5000000,True,,,,8/21/2026
+20035143,SP,Bloom Energy Corporation Class A Common Stock,BE,ST,P,07/28/2026,07/28/2026,500001,1000000,False,,,,8/21/2026
+20035143,SP,Bloom Energy Corporation Class A Common Stock,BE,OP,P,07/28/2026,07/28/2026,500001,1000000,True,,,,8/21/2026
+20035143,SP,Intel Corporation - Common Stock,INTC,OP,P,07/24/2026,07/24/2026,250001,500000,True,,,,8/21/2026
+20035143,SP,Intel Corporation - Common Stock,INTC,ST,P,07/24/2026,07/24/2026,500001,1000000,False,,,,8/21/2026
+20035143,SP,,,AB,P,07/27/2026,07/27/2026,500001,1000000,False,,,,8/21/2026
