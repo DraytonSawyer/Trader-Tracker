@@ -1,8 +1,8 @@
 {
   "filing": {
-    "accession": "0001061768-26-000010",
-    "filing_date": "2026-08-13",
-    "period": "2026-06-30",
+    "accession": "0001061768-26-000015",
+    "filing_date": "2026-11-13",
+    "period": "2026-09-30",
     "cik_int": 1061768
   },
   "positions": {
@@ -10,231 +10,211 @@
       "issuer": "ALPHABET INC",
       "class": "CAP STK CL C",
       "cusip": "02079K107",
-      "value_usd": 484744000,
-      "shares": 1371931,
+      "value_usd": 323679000,
+      "shares": 949931,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 8.95
+      "pct_portfolio": 6.41
     },
     "023135106|EQ": {
       "issuer": "AMAZON COM INC",
       "class": "COM",
       "cusip": "023135106",
-      "value_usd": 892310000,
+      "value_usd": 932781000,
       "shares": 3743854,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 16.48
+      "pct_portfolio": 18.49
     },
     "03064D108|EQ": {
       "issuer": "AMERICOLD REALTY TRUST INC",
       "class": "COM",
       "cusip": "03064D108",
-      "value_usd": 107371000,
+      "value_usd": 95487000,
       "shares": 6830230,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.98
+      "pct_portfolio": 1.89
     },
     "G0403H108|EQ": {
       "issuer": "AON PLC",
       "class": "SHS CL A",
       "cusip": "G0403H108",
-      "value_usd": 227871000,
-      "shares": 687000,
+      "value_usd": 186759000,
+      "shares": 674779,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 4.21
+      "pct_portfolio": 3.7
     },
     "G0750C108|EQ": {
       "issuer": "AXALTA COATING SYS LTD",
       "class": "COM",
       "cusip": "G0750C108",
-      "value_usd": 43608000,
-      "shares": 1274356,
+      "value_usd": 80594000,
+      "shares": 2506031,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.81
+      "pct_portfolio": 1.6
     },
     "12572Q105|EQ": {
       "issuer": "CME GROUP INC",
       "class": "COM",
       "cusip": "12572Q105",
-      "value_usd": 136694000,
-      "shares": 619000,
+      "value_usd": 179570000,
+      "shares": 685435,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.52
-    },
-    "67011P100|EQ": {
-      "issuer": "DNOW INC",
-      "class": "COM",
-      "cusip": "67011P100",
-      "value_usd": 36160000,
-      "shares": 2788000,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.67
+      "pct_portfolio": 3.56
     },
     "26969P108|EQ": {
       "issuer": "EAGLE MATLS INC",
       "class": "COM",
       "cusip": "26969P108",
-      "value_usd": 119422000,
+      "value_usd": 90771000,
       "shares": 530763,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.21
+      "pct_portfolio": 1.8
     },
     "036752103|EQ": {
       "issuer": "ELEVANCE HEALTH INC FORMERLY",
       "class": "COM",
       "cusip": "036752103",
-      "value_usd": 493140000,
+      "value_usd": 495805000,
       "shares": 1275154,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 9.11
+      "pct_portfolio": 9.83
     },
     "31488V107|EQ": {
       "issuer": "FERGUSON ENTERPRISES INC",
       "class": "COMMON STOCK NEW",
       "cusip": "31488V107",
-      "value_usd": 344269000,
-      "shares": 1450594,
+      "value_usd": 349868000,
+      "shares": 1571594,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 6.36
+      "pct_portfolio": 6.93
     },
     "36165L108|EQ": {
       "issuer": "GDS HLDGS LTD",
       "class": "SPONSORED ADS",
       "cusip": "36165L108",
-      "value_usd": 113208000,
+      "value_usd": 117731000,
       "shares": 3769818,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.09
+      "pct_portfolio": 2.33
     },
     "372460105|EQ": {
       "issuer": "GENUINE PARTS CO",
       "class": "COM",
       "cusip": "372460105",
-      "value_usd": 332253000,
-      "shares": 2816178,
+      "value_usd": 389540000,
+      "shares": 3097978,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 6.13
+      "pct_portfolio": 7.72
     },
     "40054J109|EQ": {
       "issuer": "GRUPO AEROMEXICO SAB DE CV",
       "class": "SPONSORED ADS",
       "cusip": "40054J109",
-      "value_usd": 87843000,
+      "value_usd": 77058000,
       "shares": 4880188,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.62
+      "pct_portfolio": 1.53
     },
     "G4412G101|EQ": {
       "issuer": "HERBALIFE LTD",
       "class": "COM SHS",
       "cusip": "G4412G101",
-      "value_usd": 121767000,
-      "shares": 9259844,
+      "value_usd": 124452000,
+      "shares": 10259844,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.25
+      "pct_portfolio": 2.47
     },
-    "G61188127|EQ": {
-      "issuer": "LIBERTY GLOBAL LTD",
-      "class": "COM CL C",
-      "cusip": "G61188127",
-      "value_usd": 93975000,
-      "shares": 8543161,
+    "43849R105|EQ": {
+      "issuer": "HONEYWELL AEROSPACE INC",
+      "class": "COM",
+      "cusip": "43849R105",
+      "value_usd": 175426000,
+      "shares": 1132000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.74
+      "pct_portfolio": 3.48
     },
     "60855R100|EQ": {
       "issuer": "MOLINA HEALTHCARE INC",
       "class": "COM",
       "cusip": "60855R100",
-      "value_usd": 144906000,
-      "shares": 633609,
+      "value_usd": 85021000,
+      "shares": 449609,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.68
-    },
-    "G66721104|EQ": {
-      "issuer": "NORWEGIAN CRUISE LINE HLDGS",
-      "class": "SHS",
-      "cusip": "G66721104",
-      "value_usd": 163180000,
-      "shares": 7730000,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 3.01
+      "pct_portfolio": 1.68
     },
     "71531U102|EQ": {
       "issuer": "PERSHING SQUARE INC",
       "class": "COMMON STOCK",
       "cusip": "71531U102",
-      "value_usd": 12881000,
+      "value_usd": 21928000,
       "shares": 392000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.24
+      "pct_portfolio": 0.43
     },
     "76131D103|EQ": {
       "issuer": "RESTAURANT BRANDS INTL INC",
       "class": "COM",
       "cusip": "76131D103",
-      "value_usd": 489612000,
+      "value_usd": 480104000,
       "shares": 6753112,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 9.04
+      "pct_portfolio": 9.51
     },
-    "879369106|EQ": {
-      "issuer": "TELEFLEX INCORPORATED",
+    "82982L103|EQ": {
+      "issuer": "SITEONE LANDSCAPE SUPPLY INC",
       "class": "COM",
-      "cusip": "879369106",
-      "value_usd": 178605000,
-      "shares": 1409000,
+      "cusip": "82982L103",
+      "value_usd": 112436000,
+      "shares": 1245000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 3.3
+      "pct_portfolio": 2.23
     },
     "907818108|EQ": {
       "issuer": "UNION PAC CORP",
       "class": "COM",
       "cusip": "907818108",
-      "value_usd": 322427000,
-      "shares": 1185395,
+      "value_usd": 216451000,
+      "shares": 795395,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 5.95
+      "pct_portfolio": 4.29
     },
     "92826C839|EQ": {
       "issuer": "VISA INC",
       "class": "COM CL A",
       "cusip": "92826C839",
-      "value_usd": 240628000,
+      "value_usd": 252018000,
       "shares": 701355,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 4.44
+      "pct_portfolio": 4.99
     },
     "95082P105|EQ": {
       "issuer": "WESCO INTL INC",
       "class": "COM",
       "cusip": "95082P105",
-      "value_usd": 228979000,
-      "shares": 662881,
+      "value_usd": 258374000,
+      "shares": 718523,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 4.23
+      "pct_portfolio": 5.12
     }
   }
 }
