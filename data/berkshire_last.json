@@ -1,8 +1,8 @@
 {
   "filing": {
-    "accession": "0001193125-26-352200",
-    "filing_date": "2026-08-14",
-    "period": "2026-06-30",
+    "accession": "0001193125-26-463399",
+    "filing_date": "2026-11-16",
+    "period": "2026-09-30",
     "cik_int": 1067983
   },
   "positions": {
@@ -10,7 +10,7 @@
       "issuer": "ALLY FINL INC",
       "class": "COM",
       "cusip": "02005N100",
-      "value_usd": 58586250000,
+      "value_usd": 47965500000,
       "shares": 1275000,
       "share_type": "SH",
       "put_call": "",
@@ -20,77 +20,77 @@
       "issuer": "ALPHABET INC",
       "class": "CAP STK CL C",
       "cusip": "02079K107",
-      "value_usd": 9606489032000,
+      "value_usd": 9264186660000,
       "shares": 27188433,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 3.21
+      "pct_portfolio": 3.05
     },
     "02079K305|EQ": {
       "issuer": "ALPHABET INC",
       "class": "CAP STK CL A",
       "cusip": "02079K305",
-      "value_usd": 23523689772000,
+      "value_usd": 22648882605000,
       "shares": 65824467,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 7.86
+      "pct_portfolio": 7.45
     },
     "025816109|EQ": {
       "issuer": "AMERICAN EXPRESS CO",
       "class": "COM",
       "cusip": "025816109",
-      "value_usd": 473452922000,
+      "value_usd": 425652723000,
       "shares": 1399713,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.16
+      "pct_portfolio": 0.14
     },
     "037833100|EQ": {
       "issuer": "APPLE INC",
       "class": "COM",
       "cusip": "037833100",
-      "value_usd": 1092623360000,
+      "value_usd": 1257483520000,
       "shares": 3776000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.37
+      "pct_portfolio": 0.41
     },
     "060505104|EQ": {
       "issuer": "BANK OF AMER CORP",
       "class": "COM",
       "cusip": "060505104",
-      "value_usd": 558404000000,
+      "value_usd": 533414000000,
       "shares": 9800000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.19
+      "pct_portfolio": 0.18
     },
     "14040H105|EQ": {
       "issuer": "CAPITAL ONE FINL CORP",
       "class": "COM",
       "cusip": "14040H105",
-      "value_usd": 373531971000,
-      "shares": 1861888,
+      "value_usd": 222030500000,
+      "shares": 1150000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.12
+      "pct_portfolio": 0.07
     },
     "166764100|EQ": {
       "issuer": "CHEVRON CORPORATION",
       "class": "COM",
       "cusip": "166764100",
-      "value_usd": 9655809914000,
+      "value_usd": 11895589663000,
       "shares": 58251749,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 3.23
+      "pct_portfolio": 3.91
     },
     "191216100|EQ": {
       "issuer": "COCA COLA CO",
       "class": "COM",
       "cusip": "191216100",
-      "value_usd": 78019200000,
+      "value_usd": 82636800000,
       "shares": 960000,
       "share_type": "SH",
       "put_call": "",
@@ -100,7 +100,7 @@
       "issuer": "D R HORTON INC",
       "class": "COM",
       "cusip": "23331A109",
-      "value_usd": 580504000,
+      "value_usd": 487021000,
       "shares": 3564,
       "share_type": "SH",
       "put_call": "",
@@ -110,27 +110,27 @@
       "issuer": "DAVITA INC",
       "class": "COM",
       "cusip": "23918K108",
-      "value_usd": 3093940590000,
-      "shares": 13906601,
+      "value_usd": 2400535785000,
+      "shares": 13723621,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.03
+      "pct_portfolio": 0.79
     },
     "247361702|EQ": {
       "issuer": "DELTA AIR LINES INC",
       "class": "COM NEW",
       "cusip": "247361702",
-      "value_usd": 5368591200000,
-      "shares": 57320000,
+      "value_usd": 5378997000000,
+      "shares": 64450000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.79
+      "pct_portfolio": 1.77
     },
     "47233W109|EQ": {
       "issuer": "JEFFERIES FINANCIAL GROUP IN",
       "class": "COM",
       "cusip": "47233W109",
-      "value_usd": 21669229000,
+      "value_usd": 19826607000,
       "shares": 433558,
       "share_type": "SH",
       "put_call": "",
@@ -140,38 +140,38 @@
       "issuer": "KRAFT HEINZ CO",
       "class": "COM",
       "cusip": "500754106",
-      "value_usd": 7691494401000,
+      "value_usd": 7398423065000,
       "shares": 325634818,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.57
+      "pct_portfolio": 2.43
     },
     "501044101|EQ": {
       "issuer": "KROGER CO",
       "class": "COM",
       "cusip": "501044101",
-      "value_usd": 1513595648000,
+      "value_usd": 1597820581000,
       "shares": 27257260,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.51
+      "pct_portfolio": 0.53
     },
     "526057104|EQ": {
       "issuer": "LENNAR CORP",
       "class": "CL A",
       "cusip": "526057104",
-      "value_usd": 1119030921000,
-      "shares": 12366349,
+      "value_usd": 1458612905000,
+      "shares": 17877349,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.37
+      "pct_portfolio": 0.48
     },
     "526057302|EQ": {
       "issuer": "LENNAR CORP",
       "class": "CL B",
       "cusip": "526057302",
-      "value_usd": 26445959000,
-      "shares": 298117,
+      "value_usd": 44234470000,
+      "shares": 553000,
       "share_type": "SH",
       "put_call": "",
       "pct_portfolio": 0.01
@@ -180,17 +180,17 @@
       "issuer": "LIBERTY LIVE HOLDINGS INC",
       "class": "COM SER A",
       "cusip": "530909100",
-      "value_usd": 46252328000,
+      "value_usd": 43228524000,
       "shares": 456768,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.02
+      "pct_portfolio": 0.01
     },
     "530909308|EQ": {
       "issuer": "LIBERTY LIVE HOLDINGS INC",
       "class": "COM SHS SER C",
       "cusip": "530909308",
-      "value_usd": 151835210000,
+      "value_usd": 139776355000,
       "shares": 1437289,
       "share_type": "SH",
       "put_call": "",
@@ -200,17 +200,17 @@
       "issuer": "LOUISIANA PAC CORP",
       "class": "COM",
       "cusip": "546347105",
-      "value_usd": 341770542000,
+      "value_usd": 280463876000,
       "shares": 4344909,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.11
+      "pct_portfolio": 0.09
     },
     "55616P104|EQ": {
       "issuer": "MACYS INC",
       "class": "COM",
       "cusip": "55616P104",
-      "value_usd": 130170294000,
+      "value_usd": 125858921000,
       "shares": 5527401,
       "share_type": "SH",
       "put_call": "",
@@ -220,81 +220,91 @@
       "issuer": "MOODYS CORP",
       "class": "COM",
       "cusip": "615369105",
-      "value_usd": 5717548850000,
+      "value_usd": 5732823588000,
       "shares": 12623750,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.91
+      "pct_portfolio": 1.88
     },
     "62944T105|EQ": {
       "issuer": "NVR INC",
       "class": "COM",
       "cusip": "62944T105",
-      "value_usd": 75710501000,
+      "value_usd": 68387582000,
       "shares": 11112,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.03
+      "pct_portfolio": 0.02
     },
     "650111107|EQ": {
       "issuer": "NEW YORK TIMES CO MTN BE",
       "class": "CL A",
       "cusip": "650111107",
-      "value_usd": 1000714000000,
+      "value_usd": 910910000000,
       "shares": 14300000,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.33
+      "pct_portfolio": 0.3
     },
     "670346105|EQ": {
       "issuer": "NUCOR CORP",
       "class": "COM",
       "cusip": "670346105",
-      "value_usd": 413814258000,
-      "shares": 1857752,
+      "value_usd": 369506390000,
+      "shares": 1580776,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.14
+      "pct_portfolio": 0.12
     },
     "674599105|EQ": {
       "issuer": "OCCIDENTAL PETE CORP",
       "class": "COM",
       "cusip": "674599105",
-      "value_usd": 12868205304000,
+      "value_usd": 14656559963000,
       "shares": 264941431,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 4.3
+      "pct_portfolio": 4.82
     },
     "829933100|EQ": {
       "issuer": "SIRIUSXM HOLDINGS INC",
       "class": "COMMON STOCK",
       "cusip": "829933100",
-      "value_usd": 3214608586000,
+      "value_usd": 2816319235000,
       "shares": 108822227,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.07
+      "pct_portfolio": 0.93
     },
     "92343E102|EQ": {
       "issuer": "VERISIGN INC",
       "class": "COM",
       "cusip": "92343E102",
-      "value_usd": 2016739665000,
-      "shares": 8016933,
+      "value_usd": 1670101573000,
+      "shares": 5922136,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.67
+      "pct_portfolio": 0.55
     },
     "H1467J104|EQ": {
       "issuer": "CHUBB LIMITED",
       "class": "COM",
       "cusip": "H1467J104",
-      "value_usd": 11670066615000,
+      "value_usd": 11139546771000,
       "shares": 34249183,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 3.9
+      "pct_portfolio": 3.66
+    },
+    "T19377109|EQ": {
+      "issuer": "BENDING SPOONS SPA",
+      "class": "COM SHS",
+      "cusip": "T19377109",
+      "value_usd": 689379305000,
+      "shares": 20689655,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.23
     }
   }
 }

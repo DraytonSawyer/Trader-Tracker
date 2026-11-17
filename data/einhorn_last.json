@@ -1,8 +1,8 @@
 {
   "filing": {
-    "accession": "0001172661-26-003786",
-    "filing_date": "2026-08-14",
-    "period": "2026-06-30",
+    "accession": "0001172661-26-005372",
+    "filing_date": "2026-11-16",
+    "period": "2026-09-30",
     "cik_int": 1489933
   },
   "positions": {
@@ -10,208 +10,228 @@
       "issuer": "ACADIA HEALTHCARE COMPANY IN",
       "class": "COM",
       "cusip": "00404A109",
-      "value_usd": 111828072000,
-      "shares": 3786931,
+      "value_usd": 103476148000,
+      "shares": 3762769,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.86
+      "pct_portfolio": 2.91
+    },
+    "001026103|EQ": {
+      "issuer": "ADI GLOBAL DISTR INC",
+      "class": "COM SHS",
+      "cusip": "001026103",
+      "value_usd": 39982495000,
+      "shares": 2231166,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 1.13
     },
     "03674X106|EQ": {
       "issuer": "ANTERO RESOURCES CORP",
       "class": "COM",
       "cusip": "03674X106",
-      "value_usd": 49017137000,
-      "shares": 1394910,
+      "value_usd": 5205167000,
+      "shares": 155890,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.25
+      "pct_portfolio": 0.15
+    },
+    "090572207|EQ": {
+      "issuer": "BIO RAD LABS INC",
+      "class": "CL A",
+      "cusip": "090572207",
+      "value_usd": 33782382000,
+      "shares": 89440,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.95
     },
     "05603J108|EQ": {
       "issuer": "BKV CORP",
       "class": "COM",
       "cusip": "05603J108",
-      "value_usd": 11629094000,
-      "shares": 425040,
+      "value_usd": 9450206000,
+      "shares": 442840,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.3
+      "pct_portfolio": 0.27
     },
     "10922N103|EQ": {
       "issuer": "BRIGHTHOUSE FINL INC",
       "class": "COM",
       "cusip": "10922N103",
-      "value_usd": 145192223000,
-      "shares": 2293716,
+      "value_usd": 20771973000,
+      "shares": 416272,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 3.71
+      "pct_portfolio": 0.58
     },
     "G1890L107|EQ": {
       "issuer": "CAPRI HOLDINGS LIMITED",
       "class": "SHS",
       "cusip": "G1890L107",
-      "value_usd": 75844114000,
+      "value_usd": 57669299000,
       "shares": 4084228,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.94
+      "pct_portfolio": 1.62
     },
     "15135B101|EQ": {
       "issuer": "CENTENE CORP DEL",
       "class": "COM",
       "cusip": "15135B101",
-      "value_usd": 89457110000,
-      "shares": 1393630,
+      "value_usd": 15184613000,
+      "shares": 244440,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.29
+      "pct_portfolio": 0.43
+    },
+    "156431108|EQ": {
+      "issuer": "CENTURY ALUM CO",
+      "class": "COM",
+      "cusip": "156431108",
+      "value_usd": 70929749000,
+      "shares": 1971366,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 2.0
     },
     "N20944109|EQ": {
       "issuer": "CNH INDL N V",
       "class": "SHS",
       "cusip": "N20944109",
-      "value_usd": 7852578000,
-      "shares": 699250,
+      "value_usd": 44842517000,
+      "shares": 3489690,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.2
+      "pct_portfolio": 1.26
     },
     "20030N101|EQ": {
       "issuer": "COMCAST CORP NEW",
       "class": "CL A",
       "cusip": "20030N101",
-      "value_usd": 33038899000,
-      "shares": 1345780,
+      "value_usd": 52351514000,
+      "shares": 2405860,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.85
+      "pct_portfolio": 1.47
     },
     "218937100|EQ": {
       "issuer": "CORE NATURAL RESOURCES INC",
       "class": "COM SHS",
       "cusip": "218937100",
-      "value_usd": 155765172000,
+      "value_usd": 167094256000,
       "shares": 1946578,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 3.98
+      "pct_portfolio": 4.7
     },
     "22407B108|EQ": {
       "issuer": "COYA THERAPEUTICS INC",
       "class": "COMMON STOCK",
       "cusip": "22407B108",
-      "value_usd": 2278347000,
+      "value_usd": 1951200000,
       "shares": 389461,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.06
+      "pct_portfolio": 0.05
     },
     "227046109|EQ": {
       "issuer": "CROCS INC",
       "class": "COM",
       "cusip": "227046109",
-      "value_usd": 67461888000,
+      "value_usd": 65599752000,
       "shares": 559200,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.73
+      "pct_portfolio": 1.85
     },
     "024061103|EQ": {
       "issuer": "DAUCH CORP",
       "class": "COM",
       "cusip": "024061103",
-      "value_usd": 7906696000,
-      "shares": 1458800,
+      "value_usd": 85516024000,
+      "shares": 16382380,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.2
+      "pct_portfolio": 2.41
     },
     "243537107|EQ": {
       "issuer": "DECKERS OUTDOOR CORP",
       "class": "COM",
       "cusip": "243537107",
-      "value_usd": 42497907000,
-      "shares": 428018,
+      "value_usd": 6124613000,
+      "shares": 78380,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.09
+      "pct_portfolio": 0.17
     },
     "Y2065G121|EQ": {
       "issuer": "DHT HOLDINGS INC",
       "class": "SHS NEW",
       "cusip": "Y2065G121",
-      "value_usd": 70980729000,
-      "shares": 4294055,
+      "value_usd": 13704843000,
+      "shares": 607215,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.82
+      "pct_portfolio": 0.39
     },
     "343412102|EQ": {
       "issuer": "FLUOR CORP",
       "class": "COM",
       "cusip": "343412102",
-      "value_usd": 36085708000,
-      "shares": 688790,
+      "value_usd": 26738490000,
+      "shares": 558448,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.92
+      "pct_portfolio": 0.75
     },
     "34964C106|EQ": {
       "issuer": "FORTUNE BRANDS INNOVATIONS I",
       "class": "COM",
       "cusip": "34964C106",
-      "value_usd": 4273965000,
-      "shares": 77850,
+      "value_usd": 5982602000,
+      "shares": 157230,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.11
+      "pct_portfolio": 0.17
     },
     "36269B105|EQ": {
       "issuer": "GAIN THERAPEUTICS INC",
       "class": "COM",
       "cusip": "36269B105",
-      "value_usd": 999024000,
+      "value_usd": 851385000,
       "shares": 492130,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.03
-    },
-    "38268T103|EQ": {
-      "issuer": "GOPRO INC",
-      "class": "CL A",
-      "cusip": "38268T103",
-      "value_usd": 260529000,
-      "shares": 334870,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.01
+      "pct_portfolio": 0.02
     },
     "388689101|EQ": {
       "issuer": "GRAPHIC PACKAGING HLDG CO",
       "class": "COM",
       "cusip": "388689101",
-      "value_usd": 83217187000,
-      "shares": 7872960,
+      "value_usd": 13759620000,
+      "shares": 1520400,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.13
+      "pct_portfolio": 0.39
     },
     "392709101|EQ": {
       "issuer": "GREEN BRICK PARTNERS INC",
       "class": "COM",
       "cusip": "392709101",
-      "value_usd": 66023075000,
-      "shares": 824876,
+      "value_usd": 571356138000,
+      "shares": 8642507,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.69
+      "pct_portfolio": 16.08
     },
     "45258J102|EQ": {
       "issuer": "IMMUNOVANT INC",
       "class": "COM",
       "cusip": "45258J102",
-      "value_usd": 574482000,
-      "shares": 14910,
+      "value_usd": 349792000,
+      "shares": 10355,
       "share_type": "SH",
       "put_call": "",
       "pct_portfolio": 0.01
@@ -220,251 +240,221 @@
       "issuer": "LAKEFRONT BIOTHERAPEUTICS NV",
       "class": "SPON ADR",
       "cusip": "36315X101",
-      "value_usd": 3198356000,
+      "value_usd": 3163151000,
       "shares": 106683,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.08
+      "pct_portfolio": 0.09
     },
     "G61188101|EQ": {
       "issuer": "LIBERTY GLOBAL LTD",
       "class": "COM CL A",
       "cusip": "G61188101",
-      "value_usd": 47346181000,
-      "shares": 4164132,
+      "value_usd": 7296605000,
+      "shares": 799190,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.21
+      "pct_portfolio": 0.21
+    },
+    "501889208|EQ": {
+      "issuer": "LKQ CORP",
+      "class": "COM",
+      "cusip": "501889208",
+      "value_usd": 23614895000,
+      "shares": 1034380,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.66
+    },
+    "552953101|EQ": {
+      "issuer": "MGM RESORTS INTERNATIONAL",
+      "class": "COM",
+      "cusip": "552953101",
+      "value_usd": 34101284000,
+      "shares": 1098270,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.96
     },
     "67080N101|EQ": {
       "issuer": "NUVATION BIO INC",
       "class": "COM CL A",
       "cusip": "67080N101",
-      "value_usd": 198772000,
+      "value_usd": 195972000,
       "shares": 34995,
       "share_type": "SH",
       "put_call": "",
       "pct_portfolio": 0.01
     },
-    "69932A204|EQ": {
-      "issuer": "PARAMOUNT SKYDANCE CORP",
-      "class": "COM CL B",
-      "cusip": "69932A204",
-      "value_usd": 32269709000,
-      "shares": 3272790,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.83
-    },
-    "70450Y103|EQ": {
-      "issuer": "PAYPAL HLDGS INC",
-      "class": "COM",
-      "cusip": "70450Y103",
-      "value_usd": 9133865000,
-      "shares": 211530,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.23
-    },
     "707569109|EQ": {
       "issuer": "PENN ENTERTAINMENT INC",
       "class": "COM",
       "cusip": "707569109",
-      "value_usd": 18447009000,
-      "shares": 863624,
+      "value_usd": 71473087000,
+      "shares": 4878709,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.47
+      "pct_portfolio": 2.01
     },
     "69331C108|EQ": {
       "issuer": "PG&E CORP",
       "class": "COM",
       "cusip": "69331C108",
-      "value_usd": 17471943000,
-      "shares": 1038760,
+      "value_usd": 105264642000,
+      "shares": 8593032,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.45
+      "pct_portfolio": 2.96
     },
     "741623102|EQ": {
       "issuer": "PRIMO BRANDS CORPORATION",
       "class": "CLASS A COM SHS",
       "cusip": "741623102",
-      "value_usd": 66557452000,
-      "shares": 2723300,
+      "value_usd": 1911858000,
+      "shares": 100360,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.7
+      "pct_portfolio": 0.05
     },
     "693656100|EQ": {
       "issuer": "PVH CORPORATION",
       "class": "COM",
       "cusip": "693656100",
-      "value_usd": 5716535000,
-      "shares": 76980,
+      "value_usd": 32864871000,
+      "shares": 443820,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.15
+      "pct_portfolio": 0.92
     },
     "76118Y104|EQ": {
       "issuer": "RESIDEO TECHNOLOGIES INC",
       "class": "COM",
       "cusip": "76118Y104",
-      "value_usd": 6975606000,
-      "shares": 224296,
+      "value_usd": 266732000,
+      "shares": 14696,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.18
+      "pct_portfolio": 0.01
     },
     "G76279101|EQ": {
       "issuer": "ROIVANT SCIENCES LTD",
       "class": "SHS",
       "cusip": "G76279101",
-      "value_usd": 11926784000,
-      "shares": 337010,
+      "value_usd": 32584126000,
+      "shares": 891007,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.31
+      "pct_portfolio": 0.92
     },
     "806407102|EQ": {
       "issuer": "SCHEIN HENRY INC",
       "class": "COM",
       "cusip": "806407102",
-      "value_usd": 7840022000,
-      "shares": 93870,
+      "value_usd": 52454380000,
+      "shares": 624680,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.2
+      "pct_portfolio": 1.48
+    },
+    "78440X887|EQ": {
+      "issuer": "SL GREEN RLTY CORP",
+      "class": "COM",
+      "cusip": "78440X887",
+      "value_usd": 5055882000,
+      "shares": 103350,
+      "share_type": "SH",
+      "put_call": "",
+      "pct_portfolio": 0.14
     },
     "831349105|EQ": {
       "issuer": "SLIDE INS HLDGS INC",
       "class": "COM",
       "cusip": "831349105",
-      "value_usd": 27294461000,
-      "shares": 1409110,
+      "value_usd": 25814098000,
+      "shares": 1157064,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.7
+      "pct_portfolio": 0.73
     },
     "83601L102|EQ": {
       "issuer": "SOTERA HEALTH CO",
       "class": "COM",
       "cusip": "83601L102",
-      "value_usd": 65759579000,
-      "shares": 3704765,
+      "value_usd": 51974928000,
+      "shares": 2810975,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.68
+      "pct_portfolio": 1.46
     },
     "78463V107|EQ": {
       "issuer": "SPDR GOLD TR",
       "class": "GOLD SHS",
       "cusip": "78463V107",
-      "value_usd": 30730628000,
-      "shares": 83421,
+      "value_usd": 35144296000,
+      "shares": 92281,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.79
-    },
-    "84790A105|EQ": {
-      "issuer": "SPECTRUM BRANDS HOLDINGS INC",
-      "class": "COM",
-      "cusip": "84790A105",
-      "value_usd": 40686146000,
-      "shares": 474474,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 1.04
-    },
-    "86384P109|EQ": {
-      "issuer": "STUBHUB HLDGS INC",
-      "class": "CL A",
-      "cusip": "86384P109",
-      "value_usd": 45851048000,
-      "shares": 3562630,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 1.17
+      "pct_portfolio": 0.99
     },
     "87162W100|EQ": {
       "issuer": "TD SYNNEX CORPORATION",
       "class": "COM",
       "cusip": "87162W100",
-      "value_usd": 86787119000,
-      "shares": 324632,
+      "value_usd": 11090783000,
+      "shares": 43180,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.22
+      "pct_portfolio": 0.31
     },
-    "881624209|EQ": {
+    "M8769Q102|EQ": {
       "issuer": "TEVA PHARMACEUTICAL INDS LTD",
-      "class": "SPONSORED ADS",
-      "cusip": "881624209",
-      "value_usd": 83067052000,
-      "shares": 2451802,
+      "class": "SHS",
+      "cusip": "M8769Q102",
+      "value_usd": 61684484000,
+      "shares": 1557689,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.13
+      "pct_portfolio": 1.74
     },
     "125523100|EQ": {
       "issuer": "THE CIGNA GROUP",
       "class": "COM",
       "cusip": "125523100",
-      "value_usd": 20703568000,
-      "shares": 75100,
+      "value_usd": 3615339000,
+      "shares": 13300,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.53
-    },
-    "896945201|EQ": {
-      "issuer": "TRIPADVISOR INC",
-      "class": "COM",
-      "cusip": "896945201",
-      "value_usd": 32209630000,
-      "shares": 2349353,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.82
+      "pct_portfolio": 0.1
     },
     "925283103|EQ": {
       "issuer": "VERSANT MEDIA GROUP INC",
       "class": "COM CL A",
       "cusip": "925283103",
-      "value_usd": 58660722000,
-      "shares": 1629012,
+      "value_usd": 8119955000,
+      "shares": 256150,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 1.5
+      "pct_portfolio": 0.23
     },
     "G9600F104|EQ": {
       "issuer": "VERSIGENT PLC",
       "class": "ORDINARY SHARES",
       "cusip": "G9600F104",
-      "value_usd": 83250377000,
-      "shares": 1981680,
+      "value_usd": 18754810000,
+      "shares": 417330,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.13
+      "pct_portfolio": 0.53
     },
     "92556V106|EQ": {
       "issuer": "VIATRIS INC",
       "class": "COM",
       "cusip": "92556V106",
-      "value_usd": 4281089000,
-      "shares": 269590,
+      "value_usd": 65438188000,
+      "shares": 3692900,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.11
-    },
-    "934423104|EQ": {
-      "issuer": "WARNER BROS DISCOVERY INC",
-      "class": "COM SER A",
-      "cusip": "934423104",
-      "value_usd": 55675144000,
-      "shares": 2088340,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 1.42
+      "pct_portfolio": 1.84
     }
   }
 }

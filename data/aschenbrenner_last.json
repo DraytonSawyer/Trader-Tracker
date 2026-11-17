@@ -1,270 +1,100 @@
 {
   "filing": {
-    "accession": "0000935836-26-000418",
-    "filing_date": "2026-08-14",
-    "period": "2026-06-30",
+    "accession": "0000935836-26-000610",
+    "filing_date": "2026-11-16",
+    "period": "2026-09-30",
     "cik_int": 2045724
   },
   "positions": {
-    "038169207|EQ": {
-      "issuer": "APPLIED DIGITAL CORP",
-      "class": "COM NEW",
-      "cusip": "038169207",
-      "value_usd": 469022807000,
-      "shares": 15384616,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 2.32
-    },
-    "05614L209|EQ": {
-      "issuer": "BABCOCK & WILCOX ENTERPRISES",
-      "class": "COM",
-      "cusip": "05614L209",
-      "value_usd": 28587059000,
-      "shares": 2027451,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.14
-    },
     "G11448100|EQ": {
       "issuer": "BITDEER TECHNOLOGIES GROUP",
       "class": "CL A ORD SHS",
       "cusip": "G11448100",
-      "value_usd": 54584072000,
-      "shares": 3439450,
+      "value_usd": 20294143000,
+      "shares": 1934618,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.27
+      "pct_portfolio": 1.29
     },
     "093712107|Call": {
       "issuer": "BLOOM ENERGY CORP",
       "class": "COM CL A",
       "cusip": "093712107",
-      "value_usd": 44133660000,
-      "shares": 145800,
+      "value_usd": 40162100000,
+      "shares": 145000,
       "share_type": "SH",
       "put_call": "Call",
-      "pct_portfolio": 0.22
-    },
-    "093712107|EQ": {
-      "issuer": "BLOOM ENERGY CORP",
-      "class": "COM CL A",
-      "cusip": "093712107",
-      "value_usd": 1898778982000,
-      "shares": 6272808,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 9.38
-    },
-    "15675D103|EQ": {
-      "issuer": "CEREBRAS SYSTEMS INC",
-      "class": "COM CL A",
-      "cusip": "15675D103",
-      "value_usd": 2210000000,
-      "shares": 10000,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.01
+      "pct_portfolio": 2.55
     },
     "18452B209|EQ": {
       "issuer": "CLEANSPARK INC",
       "class": "COM NEW",
       "cusip": "18452B209",
-      "value_usd": 178617822000,
-      "shares": 12276139,
+      "value_usd": 38885094000,
+      "shares": 3019029,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 0.88
+      "pct_portfolio": 2.47
     },
-    "21874A106|EQ": {
-      "issuer": "CORE SCIENTIFIC INC NEW",
+    "314911108|EQ": {
+      "issuer": "FERMI INC",
       "class": "COM",
-      "cusip": "21874A106",
-      "value_usd": 665556824000,
-      "shares": 26008473,
+      "cusip": "314911108",
+      "value_usd": 11248691000,
+      "shares": 2671898,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 3.29
-    },
-    "21873S108|EQ": {
-      "issuer": "COREWEAVE INC",
-      "class": "COM CL A",
-      "cusip": "21873S108",
-      "value_usd": 744515203000,
-      "shares": 7479558,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 3.68
-    },
-    "433921103|EQ": {
-      "issuer": "HIVE DIGITAL TECHNOLOGIES LT",
-      "class": "COM NEW",
-      "cusip": "433921103",
-      "value_usd": 33246763000,
-      "shares": 9133726,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.16
+      "pct_portfolio": 0.71
     },
     "Q4982L109|EQ": {
       "issuer": "IREN LIMITED",
       "class": "ORDINARY SHARES",
       "cusip": "Q4982L109",
-      "value_usd": 433250547000,
-      "shares": 9474099,
+      "value_usd": 21579080000,
+      "shares": 527864,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.14
+      "pct_portfolio": 1.37
     },
-    "456788108|Put": {
-      "issuer": "INFOSYS LTD",
-      "class": "SPONSORED ADR",
-      "cusip": "456788108",
-      "value_usd": 5245000000,
-      "shares": 500000,
-      "share_type": "SH",
-      "put_call": "Put",
-      "pct_portfolio": 0.03
-    },
-    "486917107|EQ": {
-      "issuer": "KEEL INFRASTRUCTURE CORP",
-      "class": "SHSCOM",
-      "cusip": "486917107",
-      "value_usd": 151830996000,
-      "shares": 26451393,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.75
-    },
-    "595112103|EQ": {
-      "issuer": "MICRON TECHNOLOGY INC",
-      "class": "COM",
-      "cusip": "595112103",
-      "value_usd": 5573819392000,
-      "shares": 4828786,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 27.54
-    },
-    "N97284108|EQ": {
+    "N97284108|Call": {
       "issuer": "NEBIUS GROUP N.V.",
       "class": "CLASS ASHS",
       "cusip": "N97284108",
-      "value_usd": 1232894684000,
-      "shares": 4464260,
+      "value_usd": 66046400000,
+      "shares": 280000,
       "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 6.09
+      "put_call": "Call",
+      "pct_portfolio": 4.19
     },
-    "74347M108|EQ": {
-      "issuer": "PROPETRO HLDG CORP",
-      "class": "COM",
-      "cusip": "74347M108",
-      "value_usd": 28111878000,
-      "shares": 1960382,
+    "77926X320|Call": {
+      "issuer": "ROUNDHILL ETF TRUST",
+      "class": "MEMORY ETF",
+      "cusip": "77926X320",
+      "value_usd": 35914200000,
+      "shares": 595000,
       "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.14
+      "put_call": "Call",
+      "pct_portfolio": 2.28
     },
-    "767292105|EQ": {
-      "issuer": "RIOT PLATFORMS INC",
-      "class": "COM",
-      "cusip": "767292105",
-      "value_usd": 468198000000,
-      "shares": 17100000,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 2.31
-    },
-    "80004C200|EQ": {
+    "80004C200|Call": {
       "issuer": "SANDISK CORP",
       "class": "COM",
       "cusip": "80004C200",
-      "value_usd": 5673738513000,
-      "shares": 2495344,
+      "value_usd": 78295050000,
+      "shares": 45000,
       "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 28.03
+      "put_call": "Call",
+      "pct_portfolio": 4.96
     },
     "778920306|EQ": {
       "issuer": "SHARONAI HOLDINGS INC",
       "class": "COM CL A",
       "cusip": "778920306",
-      "value_usd": 456836112000,
-      "shares": 5396127,
+      "value_usd": 440673870000,
+      "shares": 8070950,
       "share_type": "SH",
       "put_call": "",
-      "pct_portfolio": 2.26
-    },
-    "83418M103|EQ": {
-      "issuer": "SOLARIS ENERGY INFRAS INC",
-      "class": "COM CL A",
-      "cusip": "83418M103",
-      "value_usd": 90889306000,
-      "shares": 1129621,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.45
-    },
-    "861012102|EQ": {
-      "issuer": "STMICROELECTRONICS",
-      "class": "NY REGISTRY",
-      "cusip": "861012102",
-      "value_usd": 584344203000,
-      "shares": 7802700,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 2.89
-    },
-    "35834F104|EQ": {
-      "issuer": "T1 ENERGY INC",
-      "class": "COM NEW",
-      "cusip": "35834F104",
-      "value_usd": 46452000000,
-      "shares": 4900000,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.23
-    },
-    "874039100|EQ": {
-      "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
-      "class": "SPONSORED ADS",
-      "cusip": "874039100",
-      "value_usd": 1265099645000,
-      "shares": 2649035,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 6.25
-    },
-    "874039100|Call": {
-      "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
-      "class": "SPONSORED ADS",
-      "cusip": "874039100",
-      "value_usd": 23878500000,
-      "shares": 50000,
-      "share_type": "SH",
-      "put_call": "Call",
-      "pct_portfolio": 0.12
-    },
-    "928298108|EQ": {
-      "issuer": "VISHAY INTERTECHNOLOGY INC",
-      "class": "COM",
-      "cusip": "928298108",
-      "value_usd": 20167500000,
-      "shares": 375000,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.1
-    },
-    "G96115103|EQ": {
-      "issuer": "WHITEFIBER INC",
-      "class": "SHS",
-      "cusip": "G96115103",
-      "value_usd": 68282760000,
-      "shares": 1757600,
-      "share_type": "SH",
-      "put_call": "",
-      "pct_portfolio": 0.34
+      "pct_portfolio": 27.94
     }
   }
 }
